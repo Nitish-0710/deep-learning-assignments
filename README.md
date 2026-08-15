@@ -16,7 +16,7 @@ This repository contains my laboratory assignments completed as part of the **De
 | Assignment 1 | TensorFlow & Keras Setup, Data Preprocessing | ✅ |
 | Assignment 2 | Multi-layer Perceptron on Iris Dataset | ✅ |
 | Assignment 3 | Forward Propagation and Backpropagation using TensorFlow/Keras | ✅ |
-| Assignment 4 | Coming Soon | ⏳ |
+| Assignment 4 | CNN for Tomato Disease Classification | ✅ |
 | Assignment 5 | Coming Soon | ⏳ |
 | Assignment 6 | Coming Soon | ⏳ |
 | Assignment 7 | Coming Soon | ⏳ |
