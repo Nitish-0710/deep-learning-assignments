@@ -1,2 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
 deep-learning/
-*/**/*.docx
+.deep-learning/
+
+# Dataset
+PlantVillage/
+
+# Large model files
+*.keras
+*.h5
+*.hdf5
+
+# Documents
+*.docx
+*.zip
+
+# Python / ML generated files
+*.csv
+*.pkl
+*.joblib
+
+# OS generated files
+.DS_Store
+Thumbs.db
