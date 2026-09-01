@@ -92,7 +92,7 @@ pip install -r requirements.txt
 ### 4. Run the notebook
 
 ```bash
-jupyter notebook Assignment_5_Transfer_Learning.ipynb
+jupyter notebook Assignment5.ipynb
 ```
 
 The Oxford Flowers 102 dataset is downloaded automatically by TorchVision.
