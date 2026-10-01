@@ -31,3 +31,9 @@ Thumbs.db
 data
 
 GPU-Tests
+
+*.pt
+*.pth
+*.safetensors
+
+bert-sst2-checkpoint
