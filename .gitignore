@@ -10,6 +10,9 @@ deep-learning/
 # Dataset
 PlantVillage/
 
+# Assignment 9 checkpoints
+Assignment 9/outputs/checkpoints/
+
 # Large model files
 *.keras
 *.h5
@@ -23,6 +26,9 @@ PlantVillage/
 *.csv
 *.pkl
 *.joblib
+
+# Keep Assignment 9 model comparison results
+!Assignment 9/outputs/results/model_comparison.csv
 
 # OS generated files
 .DS_Store
