@@ -11,18 +11,18 @@ This repository contains my laboratory assignments completed as part of the **De
 
 ## Assignments
 
-| Assignment | Topic | Status |
-|---|---|---|
-| Assignment 1 | TensorFlow & Keras Setup, Data Preprocessing | ✅ Completed |
-| Assignment 2 | Multi-layer Perceptron on Iris Dataset | ✅ Completed |
-| Assignment 3 | Forward Propagation and Backpropagation using TensorFlow/Keras | ✅ Completed |
-| Assignment 4 | CNN for Tomato Disease Classification | ✅ Completed |
-| Assignment 5 | Transfer Learning using Pre-trained CNN Models | ✅ Completed |
-| Assignment 6 | Containerisation of ML Model using Docker | ✅ Completed |
-| Assignment 7 | RNN, LSTM and GRU for Sequence Classification | ✅ Completed |
-| Assignment 8 | BERT for Sentiment Analysis | ✅ Completed |
-| Assignment 9 | Image Classification using Vision Transformer (ViT) and CNN | ✅ Completed |
-| Assignment 10 | Coming Soon | ⏳ |
+| Assignment    | Topic                                                          | Status      |
+| ------------- | -------------------------------------------------------------- | ----------- |
+| Assignment 1  | TensorFlow & Keras Setup, Data Preprocessing                   | ✅ Completed |
+| Assignment 2  | Multi-layer Perceptron on Iris Dataset                         | ✅ Completed |
+| Assignment 3  | Forward Propagation and Backpropagation using TensorFlow/Keras | ✅ Completed |
+| Assignment 4  | CNN for Tomato Disease Classification                          | ✅ Completed |
+| Assignment 5  | Transfer Learning using Pre-trained CNN Models                 | ✅ Completed |
+| Assignment 6  | Containerisation of ML Model using Docker                      | ✅ Completed |
+| Assignment 7  | RNN, LSTM and GRU for Sequence Classification                  | ✅ Completed |
+| Assignment 8  | BERT for Sentiment Analysis                                    | ✅ Completed |
+| Assignment 9  | Image Classification using Vision Transformer (ViT) and CNN    | ✅ Completed |
+| Assignment 10 | Design and Implement TTS and STT                               | ✅ Completed |
 
 ## Technologies Used
 
@@ -37,7 +37,6 @@ This repository contains my laboratory assignments completed as part of the **De
 - Matplotlib
 - Scikit-learn
 - Jupyter Notebook
-- Docker
 
 ## Repository Structure
 
@@ -52,6 +51,7 @@ Deep-Learning-Assignments/
 ├── Assignment 7/
 ├── Assignment 8/
 ├── Assignment 9/
+├── Assignment 10/
 ├── .gitignore
 ├── README.md
 └── requirements.txt
