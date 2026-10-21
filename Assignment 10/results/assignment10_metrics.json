@@ -1,0 +1,20 @@
+{
+  "dataset":"Google Speech Commands v0.02",
+  "target_classes":10,
+  "train_samples":20000,
+  "validation_samples":5782,
+  "test_samples":5782,
+  "device":"cuda",
+  "epochs_completed":30,
+  "cnn_test_accuracy":0.9401591145,
+  "cnn_macro_precision":0.940905649,
+  "cnn_macro_recall":0.9399654124,
+  "cnn_macro_f1":0.9401659854,
+  "cnn_model_evaluation_seconds":18.9258613586,
+  "stt_eval_samples":30,
+  "stt_normalized_wer":0.2333333333,
+  "stt_normalized_exact_match":0.7666666667,
+  "stt_mean_latency_seconds":0.0923130274,
+  "single_sample_tts_latency_seconds":0.1360645294,
+  "whisper_model":"base.en"
+}
